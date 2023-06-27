@@ -1,6 +1,7 @@
 This is a practice project on AWS for DE
 
 argitecure diagram
+
 ![image](https://github.com/Chutchanan/AWS_DE_2/assets/134831110/f6927e6a-5a5f-4b98-835a-f701f9751de0)
 
 
